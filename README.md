@@ -4,6 +4,13 @@
 
 ## Important
 
+### Update: 2023/07/10
+Added some [samples](samples) (only accent converted, no voice cloning). For those interested in this topic, here are some related / superior works you can dig into:
+
+`AudioLM, VALL-E`
+
+I think the data-centric approach in this repo still applies.
+
 This pipeline didn't yield high robustness I was expecting (heavy accents poorly recognised & converted); I am no longer working on this topic.
 
 ## **Dependency**
